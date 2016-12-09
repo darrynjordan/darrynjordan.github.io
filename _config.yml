@@ -1,19 +1,27 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+title: Darryn Jordan
+url: 'http://darrynjordan.github.io'
+baseurl: '/home' #change it according to your repository name
 
-# Site settings
-title: darrynjordan.github.io
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+
+#Profile information
+name: Darryn Jordan	
+tagline: Radar Engineer
+pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+#sidebar links
 email: darrynjordan@icloud.com
-description: > # this means to ignore newlines until "baseurl:"
- Hi I'm Darryn!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: darryn_jordan
-github_username:  darrynjordan
+phone: 073 470 2710
+website: darrynjordan.github.io #do not add http://
+linkedin: darryn-jordan
+github: darrynjordan
+twitter: '@darryn_jordan'
 
-# Build settings
-markdown: kramdown
+#Update all the sections by editing the files inside _includes folder.
