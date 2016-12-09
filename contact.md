@@ -3,20 +3,19 @@ layout: default
 is_contact: true
 ---
 
-* Email: [darrynjordan@icloud.com](mailto:darrynjordan@icloud.com)
+* Email: [foo@xyz.com](mailto:foo@xyz.com)
 
-* Phone: [+27 73 470 2710](tel:+27 73 470 2710)
+* Phone: [+91-123123](tel:+91-123123)
 
 ---
 
 ## Mailing Address
 
-> 4 Arbor Road
+> 221B, Baker Street
 >
-> Cape Town
+> London
 >
-> South Africa
-
+> United Kingdom
 
 ---
 

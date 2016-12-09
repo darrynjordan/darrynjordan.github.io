@@ -6,9 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Hi! I'm Darryn, a masters student at the University of Cape Town, South Africa. Radar signal processing and malt milkshakes are what I'm really into, but you can checkout whatever I'm currently tinkering with on my [GitHub](https://github.com/darrynjordan/).	
 
 ## Research Interest
 
