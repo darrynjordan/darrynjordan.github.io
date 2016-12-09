@@ -8,6 +8,10 @@ layout: default
 
 Hi! I'm Darryn, a masters student at the University of Cape Town, South Africa. Radar signal processing and malt milkshakes are what I'm really into, but you can checkout whatever I'm currently tinkering with on my [GitHub](https://github.com/darrynjordan/).	
 
+## Education
+
+## Experience
+
 ## Research Interest
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
