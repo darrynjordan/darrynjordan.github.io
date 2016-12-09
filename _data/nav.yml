@@ -4,5 +4,8 @@
 - name: "Resume"
   link: "resume.pdf"
 
-- name: "About"
+- name: "Projects"
+  link: "projects"
+
+- name: "Home"
   link: "/"
