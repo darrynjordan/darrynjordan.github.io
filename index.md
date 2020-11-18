@@ -27,7 +27,7 @@ Other | Git, LaTeX
 ## Positions of Responsibility
 
 2020 | Undergraduate Project Supervisor
-2020 | IET Radar, Sonar \& Navigation Journal Peer Reviewer
+2020 | IET Radar, Sonar & Navigation Journal Peer Reviewer
 2020 | Space Studies Masters Programme Remote Exam Administrator
 2019-2020 | Radar Masters Programme Teacher's Assistant
 2017-2018 | Signals & Systems II TRP Assistant Lecturer
