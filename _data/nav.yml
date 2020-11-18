@@ -4,8 +4,8 @@
 - name: "Resume"
   link: "resume.pdf"
 
-- name: "Projects"
-  link: "projects"
+# - name: "Projects"
+#   link: "projects"
 
 - name: "Home"
   link: "/"
