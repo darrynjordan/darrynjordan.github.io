@@ -10,9 +10,9 @@ Hi! I'm Darryn, a Ph.D. candidate at the University of Cape Town, South Africa. 
 
 ## Formal Education
 
-2016 - Present | **Ph.D. in Electrical Engineering in Radar**, *University of Cape Town*, Submitted for examination.
-2012 - 2015 | **B.Sc. in Electrical Engineering in Mechatronics**, *University of Cape Town*, Graduated with honours.
-2007 - 2011 | **National Senior Certificate**, *Hudson Park High School*, Graduated with honours.
+2016-2020 | **Ph.D. in Electrical Engineering in Radar**, *University of Cape Town*, Submitted for examination.
+2012-2015 | **B.Sc. in Electrical Engineering in Mechatronics**, *University of Cape Town*, Graduated with honours.
+2007-2011 | **National Senior Certificate**, *Hudson Park High School*, Graduated with honours.
 
 ## Experience
 
@@ -29,8 +29,8 @@ Other | Git, LaTeX
 2020 | Undergraduate Project Supervisor
 2020 | IET Radar, Sonar \& Navigation Journal Peer Reviewer
 2020 | Space Studies Masters Programme Remote Exam Administrator
-2019 - 2020 | Radar Masters Programme Teacher's Assistant
-2017 - 2018 | Signals & Systems II Tutored Reassessment Programme (TRP) Assistant Lecturer
+2019-2020 | Radar Masters Programme Teacher's Assistant
+2017-2018 | Signals & Systems II Tutored Reassessment Programme (TRP) Assistant Lecturer
 2017 | Embedded Systems I Tutor.
 2016 | Signals & Systems II Teacher's Assistant
 
