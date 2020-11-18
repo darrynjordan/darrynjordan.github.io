@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Darryn Jordan
+title: Darryn Anton Jordan
 ---
 
 ## About Me
