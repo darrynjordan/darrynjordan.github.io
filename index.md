@@ -24,6 +24,16 @@ Hardware | Red Pitaya (Zynq 7010), Emlid Reach M+ RTK GNSS, LMX2492EVM, Jetson T
 Operating Systems | Linux, Windows
 Other | Git, LaTeX
 
+## Positions of Responsibility
+
+2020 | Undergraduate Project Supervisor
+2020 | IET Radar, Sonar \& Navigation Journal Peer Reviewer
+2020 | Space Studies Masters Programme Remote Exam Administrator
+2019 - 2020 | Radar Masters Programme Teacher's Assistant
+2017 - 2018 | Signals & Systems II Tutored Reassessment Programme (TRP) Assistant Lecturer
+2017 | Embedded Systems I Tutor.
+2016 | Signals & Systems II Teacher's Assistant
+
 ## Publications
 
 - D. A. Jordan, M. R. Inggs and M. Y. Abdul Gaffar, "Suppression of spur chirps for fractional-N PLL-based heterodyne FMCW SAR," *IEEE Trans. Microw. Theory Techn.*, 2020, early access. doi: [10.1109/TMTT.2020.3030273](https://doi.org/10.1109/TMTT.2020.3030273).
