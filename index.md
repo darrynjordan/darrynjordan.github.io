@@ -19,7 +19,7 @@ Hi! I'm Darryn, a Ph.D. candidate at the University of Cape Town, South Africa. 
 
 ## Technical Skills
 
-Software | Python, C/C++, Matlab, HTML, CUDA, FreeCAD
+Software | Python, C/C++, Matlab, CUDA
 Gateware | Verilog (Vivado)
 Hardware | Red Pitaya (Zynq 7010), Emlid Reach M+ RTK GNSS, LMX2492EVM, Jetson TK1, STM32F0, Arduino, Raspberry Pi
 Operating Systems | Linux, Windows
